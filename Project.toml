@@ -1,0 +1,7 @@
+name = "PPO"
+uuid = "6e4a3a96-d335-11e9-28f5-f1539ac08e63"
+authors = ["vbbphc <balloli.vb@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
